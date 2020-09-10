@@ -63,7 +63,6 @@ type ConsumerConfig struct {
 
 	InitOffset            OffsetPosition        `json:"initOffset"`
 	ClusterType           string                `json:"clusterType"`
-	ConsumerVersion       string                `json:"consumerVersion"`
 	SDKVersionVal         string                `json:"sdkVersion"`
 	ConsumerGroupStrategy ConsumerGroupStrategy `json:"consumerGroupStrategy"`
 }
