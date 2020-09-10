@@ -1,4 +1,4 @@
-module huynguyen-quoc/streams
+module github.com/huynguyen-quoc/streams
 
 go 1.13
 
